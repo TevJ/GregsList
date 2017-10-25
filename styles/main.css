@@ -101,7 +101,7 @@ nav.page li {
 	font-size: 16px;
 }
 
-a.next-button:visited, a.previous-button:visited {
+a.next-button, a.previous-button, a.next-button:visited, a.previous-button:visited {
 	color: black;
 }
 
